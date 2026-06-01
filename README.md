@@ -29,25 +29,15 @@ pipeline{
 
 #### Jenkins er New Item click koro--->Enter an item name: Scripted-Pipeline --->Select: Pipeline --->click: OK --->Pipeline e Script daw: 
 ```Script
-pipeline{
-    agent any
-    
-    stages{
-        stage('Build'){
-            steps{
-                echo 'Building the project....'
-            }
-        }
-        stage('Test'){
-            steps{
-                echo 'Running test....'
-            }
-        }
-        stage('Deploy'){
-            steps{
-                echo 'Deploying the App....'
-            }
-        }
+node{
+    stage('Build'){
+        echo 'Building the project....'
+    }
+    stage('Test'){
+        echo 'Testing the project....'
+    }
+    stage('Deploy'){
+        echo 'Deploying the project....'
     }
 }
 ```
