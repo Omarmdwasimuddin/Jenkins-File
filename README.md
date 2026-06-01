@@ -164,5 +164,3 @@ Build সফল হলে Jenkins Dashboard-এ এরকম দেখাবে:
 > **Stage View** দেখতে হলে Jenkins-এ **Pipeline Stage View Plugin** installed থাকতে হবে।
 
 ---
-
-*— Jenkins Practical Guide | Nazim Interprise DevOps Team —*
