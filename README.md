@@ -1,3 +1,4 @@
 ## Jenkins File
 
-#### Jenkins er New Item click koro--->Enter an item name: Declarative-Pipeline --->Select: Pipeline --->click: OK --->
+#### Jenkins er New Item click koro--->Enter an item name: Declarative-Pipeline --->Select: Pipeline --->click: OK --->Pipeline e Script daw: 
+![]()
