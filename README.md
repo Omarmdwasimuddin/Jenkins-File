@@ -269,5 +269,3 @@ pipeline {
 ```
 
 ---
-
-*— Jenkinsfile Guide | Nazim Interprise DevOps Team —*
